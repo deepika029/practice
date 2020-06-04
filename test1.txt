@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 92FD-5B19
+
+ Directory of C:\Users\Alex Minz\Desktop\GITPractice
+
+04-06-2020  23:04    <DIR>          .
+04-06-2020  23:04    <DIR>          ..
+04-06-2020  23:04                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  102,310,240,256 bytes free
